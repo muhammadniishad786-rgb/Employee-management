@@ -17,5 +17,6 @@ build/
 # Logs
 *.log
 
-# System files
+# OS files
 .DS_Store
+Thumbs.db
